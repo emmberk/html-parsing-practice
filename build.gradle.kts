@@ -9,7 +9,6 @@ repositories {
 
 dependencies {
   implementation("org.jsoup:jsoup:1.16.1")
-  testImplementation("org.hamcrest:hamcrest:2.2")
   testImplementation(kotlin("test"))
 }
 
